@@ -1,8 +1,9 @@
 ## Interface: 30300
-## Author: Lockslap
-## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1R|r|cffe5e3e3aid|r |cff1784d1M|r|cffe5e3e3arkers|r
-## Version: 4.24
+## Автор: Lockslap, Портировал: NiceDamage 
+## Title:|cff00b30bE|cFFE5E3E3lvUI |cFF1784D1RM|cFFE5E3E3arker |cFF00FF00TBC|cFFE5E3E3 by |cFF7EBFF1N|cFF8CC0D6i|cFF9BC2BBc|cFFA9C3A1e|cFFB7C586D|cFFC6C66Ba|cFFD4C850m|cFFE2C936a|cFFF1CB1Bg|cFFFFCC00e|cFFE5E3E3
+## Version: 4.6
 ## Notes: Adds a small raid marker bar below the minimap.
+## Инфо: Добавляет небольшую полоску с маркерами для рейда 
 ## RequiredDeps: ElvUI
 
 Locales.lua
